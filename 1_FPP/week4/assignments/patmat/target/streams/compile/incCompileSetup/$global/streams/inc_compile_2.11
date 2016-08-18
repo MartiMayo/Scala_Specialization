@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes
+output dir -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes
 compile options:
 1 items
 0 -> -deprecation
@@ -20,23 +20,32 @@ name hashing:
 1 items
 0 -> true
 products:
-10 items
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package$.class
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package.class
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$.class
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Fork.class
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf$.class
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf.class
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman.class
+19 items
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package$.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$1.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$2.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$1.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$2.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$makeOrderedLeafList$1.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$pack$1.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$times$1.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$traverse$2$1.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$until$1.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Fork.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf$.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf.class
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman.class
 binary dependencies:
 4 items
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> C:\Program Files\Java\jre1.8.0_102\lib\rt.jar
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> C:\Users\mmc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Program Files\Java\jre1.8.0_102\lib\rt.jar
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\mmc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> C:\Program Files\Java\jre1.8.0_102\lib\rt.jar
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> C:\Users\marti\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Program Files\Java\jre1.8.0_102\lib\rt.jar
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\marti\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -46,8 +55,7 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-1 items
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala
+0 items
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -55,148 +63,231 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-10 items
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> common.package
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> common.package$
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$CodeTree
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork$
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf$
+19 items
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> common.package
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> common.package$
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$2
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$pack$1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$times$1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$traverse$2$1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$until$1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$CodeTree
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork$
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf$
 used names:
-91 items
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> ::
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> <init>
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> <repeated>
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> Any
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> AnyRef
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> File
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> FileInputStream
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> InputStream
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> List
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> None
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> Nothing
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> Option
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> Predef
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> String
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> _root_
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> child
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> children
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> classesDir
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> common
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> exists
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> file
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> foldLeft
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> getClass
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> getParentFile
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> getResource
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> io
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> java
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> package
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> projectDir
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> resourceFile
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> resourcePath
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> scala
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> subFile
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> toURI
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> &&
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> +
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> :::
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> <init>
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> ==
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> ???
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> AbstractFunction2
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> AbstractFunction4
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> AnyRef
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Bit
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Boolean
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Char
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> CodeTable
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> CodeTree
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Fork
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Huffman
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Int
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Leaf
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> List
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> None
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Predef
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Product
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> ScalaRunTime
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Serializable
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Statics
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> String
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Tuple2
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> _toString
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> anyHash
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> apply
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> asInstanceOf
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> augmentString
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> char
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> chars
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> common
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> eq
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> finalizeHash
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> frenchCode
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> immutable
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> isInstanceOf
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> left
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> mix
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> package
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> right
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> runtime
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> scala
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> secret
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> str
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> toInt
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> toList
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> toString
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> tree
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> typedProductIterator
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> w
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> weight
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> ||
+153 items
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> ::
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> <init>
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> <repeated>
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> Any
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> AnyRef
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> File
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> FileInputStream
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> InputStream
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> List
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> None
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> Nothing
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> Option
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> Predef
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> String
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> _root_
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> child
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> children
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> classesDir
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> common
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> exists
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> file
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> foldLeft
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> getClass
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> getParentFile
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> getResource
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> io
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> java
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> package
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> projectDir
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> resourceFile
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> resourcePath
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> scala
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> subFile
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> toURI
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> &&
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> +
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> ::
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> :::
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> <
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> <init>
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> ==
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> AbstractFunction2
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> AbstractFunction4
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> AnyRef
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Bit
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Boolean
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Char
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> CodeTable
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> CodeTree
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Fork
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Function1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Huffman
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Int
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Leaf
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> List
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Nil
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> None
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Ordering
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Predef
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Product
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> ScalaRunTime
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Serializable
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Statics
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> String
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> Tuple2
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> _1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> _2
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> _root_
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> _toString
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> a
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> action
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> anyHash
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> apply
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> asInstanceOf
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> augmentString
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> b
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> bits
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> bits1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> c
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> canBuildFrom
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> char
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> chars
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> codeBits
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> combine
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> common
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> convert
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> decode
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> drop
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> dropWhile
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> eq
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> exists
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> f
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> finalizeHash
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> fq1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> frenchCode
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> freqs
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> freqsToLeafs
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> head
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> immutable
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> isInstanceOf
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> l
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> left
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> length
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> makeCodeTree
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> makeOrderedLeafList
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> map
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> math
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> mergeCodeTables
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> mix
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> ne
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> newLeaf
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> pack
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> package
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> patmat
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> prepend
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> right
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> runtime
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> s
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> scala
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> secret
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> singleton
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> sortBy
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> sorted
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> sortedChars
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> span
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> stopCondition
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> str
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> sublist
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> sublist1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> subtree
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> t
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> table
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> table1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> tail
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> takeWhile
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> text
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> text1
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> times
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> toInt
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> toList
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> toString
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> traverse
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> traverseList
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> tree
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> trees
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> typedProductIterator
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> unchecked
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> until
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> w
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> weight
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> x
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> xs
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> ||
 product stamps:
-10 items
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1471466877215)
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package$.class -> lastModified(1471466877215)
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package.class -> lastModified(1471466877153)
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$.class -> lastModified(1471466877262)
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class -> lastModified(1471466877278)
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class -> lastModified(1471466877293)
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Fork.class -> lastModified(1471466877293)
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf$.class -> lastModified(1471466877309)
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf.class -> lastModified(1471466877309)
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman.class -> lastModified(1471466877231)
+19 items
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1471519748905)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package$.class -> lastModified(1471519748883)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\common\package.class -> lastModified(1471519748703)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$1.class -> lastModified(1471520348048)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$2.class -> lastModified(1471520348054)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$1.class -> lastModified(1471520348059)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$2.class -> lastModified(1471520348063)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1471520348067)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$pack$1.class -> lastModified(1471520348072)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$times$1.class -> lastModified(1471520348076)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$traverse$2$1.class -> lastModified(1471520348081)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$until$1.class -> lastModified(1471520348085)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$.class -> lastModified(1471520348041)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class -> lastModified(1471520348089)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class -> lastModified(1471520348105)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Fork.class -> lastModified(1471520348100)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf$.class -> lastModified(1471520348110)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf.class -> lastModified(1471520348120)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\target\scala-2.11\classes\patmat\Huffman.class -> lastModified(1471520348013)
 source stamps:
 2 items
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> hash(1d08474f034db88e31b3efba5b0cd3ccc1495e23)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> hash(64c5c6339f7ded2833c5893ed0110efda2b87f2c)
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> hash(49f797b7b79c6257d8bbce0b1cc84296ff8e8ab6)
 binary stamps:
 2 items
-C:\Program Files\Java\jre1.8.0_102\lib\rt.jar -> lastModified(1470739175952)
-C:\Users\mmc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1438617791000)
+C:\Program Files\Java\jre1.8.0_102\lib\rt.jar -> lastModified(1470899376456)
+C:\Users\marti\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1438617791000)
 class names:
 2 items
 C:\Program Files\Java\jre1.8.0_102\lib\rt.jar -> java.lang.Object
-C:\Users\mmc\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.Product
+C:\Users\marti\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.runtime.AbstractFunction2
 internal apis:
 2 items
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8AcHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGhzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXNxAH4AeHQAA0FueXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIR0AAVzY2FsYXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWmkKhEnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGdDOlxVc2Vyc1xtbWNcSWRlYVByb2plY3RzXFNjYWxhX1NwZWNpYWxpemF0aW9uXDFfRlBQXHdlZWs0XGFzc2lnbm1lbnRzXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCFFvZ6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAP3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBBqRuZ0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADNn4AyZ0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMnzJEPnQADSRhc0luc3RhbmNlT2ZzcQB+AAyhT5qjdAAMcHJvZHVjdEFyaXR5c3EAfgAMrYpCxXQABmVxdWFsc3NxAH4ADFNL+O50AAtxdWlja0VuY29kZXNxAH4ADGclXmN0AAxhc0luc3RhbmNlT2ZzcQB+AAyZwjJJdAAMc3luY2hyb25pemVkc3EAfgAMM4LdmHQABGxlZnRzcQB+AAwvPyahdAANJGlzSW5zdGFuY2VPZnNxAH4ADORtY5h0AAZ0dXBsZWRzcQB+AAzljEqQdAAHSHVmZm1hbnNxAH4ADK8z4NV0AAhjYW5FcXVhbHNxAH4ADNy4Kpl0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOmjAId0AARjaGFyc3EAfgAMuBQG/HQABmRlY29kZXNxAH4ADGe14Jx0AARMZWFmc3EAfgAM1J/4kHQACGNvZGVCaXRzc3EAfgAMBIXUZHQADXByb2R1Y3RQcmVmaXhzcQB+AAwY6kjjdAAFdW50aWxzcQB+AAzWsoCxdAAKZnJlbmNoQ29kZXNxAH4ADPQX6yl0AAlub3RpZnlBbGxzcQB+AAyL3AEJdAALcmVhZFJlc29sdmVzcQB+AAzqxhkOdAAFY2hhcnNzcQB+AAwK6ir/dAAMaXNJbnN0YW5jZU9mc3EAfgAMNHGzI3QABjxpbml0PnNxAH4ADNvuXRl0AAVhcHBseXNxAH4ADP5M6690AA1kZWNvZGVkU2VjcmV0c3EAfgAMJOi/nHQAAj09c3EAfgAMEvSivXQABWNsb25lc3EAfgAMGBck4XQAD21lcmdlQ29kZVRhYmxlc3NxAH4ADAgq9UB0AAV0aW1lc3NxAH4ADPNo+jJ0AAdjb21iaW5lc3EAfgAMmiZunnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMvj6PcnQABGNvcHlzcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAM1GDg6nQACHRvU3RyaW5nc3EAfgAMjocP53QACXNpbmdsZXRvbnNxAH4ADNqLXi10AAIhPXNxAH4ADKItZap0AAhnZXRDbGFzc3NxAH4ADBoL2sF0AAlDb2RlVGFibGVzcQB+AAxHYPjfdAAOY3JlYXRlQ29kZVRyZWVzcQB+AAxF8kE2dAAOY29weSRkZWZhdWx0JDFzcQB+AAz2rUQ8dAAERm9ya3NxAH4ADCXGoJJ0AANCaXRzcQB+AAyykPVvdAACbmVzcQB+AAxDwK/IdAATbWFrZU9yZGVyZWRMZWFmTGlzdHNxAH4ADBdybat0AAhDb2RlVHJlZXNxAH4ADMd0bZF0AAJlcXNxAH4ADId5BKh0AAdjb252ZXJ0c3EAfgAMXh7u1XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBmtLgZ0AAVyaWdodHNxAH4ADCGmWoh0AAIjI3NxAH4ADDMwnRd0AAhmaW5hbGl6ZXNxAH4ADFUl1x50AA5wcm9kdWN0RWxlbWVudHNxAH4ADNHAT710AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5wYXRtYXQuSHVmZm1hbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AK54cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK0AcHNxAH4AsnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCVTAAJaW5oZXJpdGVkcQB+AJVMAAdwYXJlbnRzcQB+AJV4cQB+ALZzcQB+AK0AcHNxAH4AsnVxAH4AkAAAAABzcQB+AK0AcHNxAH4AsnVxAH4AkAAAAABzcQB+AK0AcHNxAH4AsnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AtXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AtXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A0nQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A03NxAH4AxnQAA0FueXNxAH4AynNxAH4AzXVxAH4A0AAAAAJzcQB+ANJ0AAVzY2FsYXEAfgDZdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcGF0bWF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWmkKhEnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGdDOlxVc2Vyc1xtbWNcSWRlYVByb2plY3RzXFNjYWxhX1NwZWNpYWxpemF0aW9uXDFfRlBQXHdlZWs0XGFzc2lnbm1lbnRzXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHQhHTwNNuI4xs++6WwzTzMFJXiM=
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFWnWlFpHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFVDOlxjb2RlXFNjYWxhX1NwZWNpYWxpemF0aW9uXDFfRlBQXHdlZWs0XGFzc2lnbm1lbnRzXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZMXGM5997SgzxYk+0BEO/aK4fyw=
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAWpaZ8AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBBqRuZ0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADNn4AyZ0AAR3YWl0c3EAfgAMP0xdhXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMnzJEPnQADSRhc0luc3RhbmNlT2ZzcQB+AAwIku/rdAAHcHJlcGVuZHNxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAytikLFdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMZyVeY3QADGFzSW5zdGFuY2VPZnNxAH4ADE+udVR0AAxmcmVxc1RvTGVhZnNzcQB+AAyZwjJJdAAMc3luY2hyb25pemVkc3EAfgAMM4LdmHQABGxlZnRzcQB+AAy7TPdWdAAEcGFja3NxAH4ADC8/JqF0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADOWMSpB0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMZ7XgnHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADFtMUZp0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAM9BfrKXQACW5vdGlmeUFsbHNxAH4ADIvcAQl0AAtyZWFkUmVzb2x2ZXNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADArqKv90AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAwk6L+cdAACPT1zcQB+AAwS9KK9dAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMCCr1QHQABXRpbWVzc3EAfgAM82j6MnQAB2NvbWJpbmVzcQB+AAyaJm6edAAOY29weSRkZWZhdWx0JDNzcQB+AAy+Po9ydAAEY29weXNxAH4ADF/cRMh0AAxzdHJpbmcyQ2hhcnNzcQB+AAzUYODqdAAIdG9TdHJpbmdzcQB+AAyOhw/ndAAJc2luZ2xldG9uc3EAfgAM2oteLXQAAiE9c3EAfgAMoi1lqnQACGdldENsYXNzc3EAfgAMGgvawXQACUNvZGVUYWJsZXNxAH4ADEdg+N90AA5jcmVhdGVDb2RlVHJlZXNxAH4ADEXyQTZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPatRDx0AARGb3Jrc3EAfgAMJcagknQAA0JpdHNxAH4ADLKQ9W90AAJuZXNxAH4ADEPAr8h0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAMF3Jtq3QACENvZGVUcmVlc3EAfgAMx3RtkXQAAmVxc3EAfgAMh3kEqHQAB2NvbnZlcnRzcQB+AAxeHu7VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMGa0uBnQABXJpZ2h0c3EAfgAMIaZaiHQAAiMjc3EAfgAMMzCdF3QACGZpbmFsaXplc3EAfgAMVSXXHnQADnByb2R1Y3RFbGVtZW50c3EAfgAM0cBPvXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Am3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADnBhdG1hdC5IdWZmbWFudXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCzAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCbTAAJaW5oZXJpdGVkcQB+AJtMAAdwYXJlbnRzcQB+AJt4cQB+ALpzcQB+ALMBdXEAfgCWAAAAAHBzcQB+ALMBdXEAfgCWAAAAAHBzcQB+ALMBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC5dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC5c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDSdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDTc3EAfgDGdAADQW55c3EAfgDKc3EAfgDNdXEAfgDQAAAAAnNxAH4A0nQABXNjYWxhcQB+ANlwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnBhdG1hdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVp1yjpt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABVQzpcY29kZVxTY2FsYV9TcGVjaWFsaXphdGlvblwxX0ZQUFx3ZWVrNFxhc3NpZ25tZW50c1xwYXRtYXRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEn3l7e3nGJX2LvOCxzIQpb/joq2
 external apis:
 0 items
 source infos:
 2 items
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> 
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\common\package.scala -> 
 AAAAAAAAAAA=
-C:\Users\mmc\IdeaProjects\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> 
-AAAAAAAAAAA=
+C:\code\Scala_Specialization\1_FPP\week4\assignments\patmat\src\main\scala\patmat\Huffman.scala -> 
+AAAAAgAAAQAAAK0AXCAgICAgIGRlZiB0cmF2ZXJzZShzdWJ0cmVlOiBDb2RlVHJlZSwgYml0czogTGlzdFtCaXRdKTogTGlzdFtDaGFyXSA9IChzdWJ0cmVlLCBiaXRzKSBtYXRjaCB7AQAAGFQBAAAARQEARSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEAX0M6XGNvZGVcU2NhbGFfU3BlY2lhbGl6YXRpb25cMV9GUFBcd2VlazRcYXNzaWdubWVudHNccGF0bWF0XHNyY1xtYWluXHNjYWxhXHBhdG1hdFxIdWZmbWFuLnNjYWxhAQBfQzpcY29kZVxTY2FsYV9TcGVjaWFsaXphdGlvblwxX0ZQUFx3ZWVrNFxhc3NpZ25tZW50c1xwYXRtYXRcc3JjXG1haW5cc2NhbGFccGF0bWF0XEh1ZmZtYW4uc2NhbGEAT21hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0OiAoXywgTGlzdChfKSkBAAABAAAA0gBcICAgICAgZGVmIHRyYXZlcnNlKHN1YnRyZWU6IENvZGVUcmVlLCB0ZXh0OiBMaXN0W0NoYXJdKTogTGlzdFtCaXRdID0gKHN1YnRyZWUsIHRleHQpIG1hdGNoIHsBAAAjPAEAAABFAQBFICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBfQzpcY29kZVxTY2FsYV9TcGVjaWFsaXphdGlvblwxX0ZQUFx3ZWVrNFxhc3NpZ25tZW50c1xwYXRtYXRcc3JjXG1haW5cc2NhbGFccGF0bWF0XEh1ZmZtYW4uc2NhbGEBAF9DOlxjb2RlXFNjYWxhX1NwZWNpYWxpemF0aW9uXDFfRlBQXHdlZWs0XGFzc2lnbm1lbnRzXHBhdG1hdFxzcmNcbWFpblxzY2FsYVxwYXRtYXRcSHVmZm1hbi5zY2FsYQBPbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXQ6IChfLCBMaXN0KF8pKQEAAAAA
 compilations:
-1 items
+4 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVppCoRJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZ0M6XFVzZXJzXG1tY1xJZGVhUHJvamVjdHNcU2NhbGFfU3BlY2lhbGl6YXRpb25cMV9GUFBcd2VlazRcYXNzaWdubWVudHNccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVp1pRaR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGNvZGVcU2NhbGFfU3BlY2lhbGl6YXRpb25cMV9GUFBcd2VlazRcYXNzaWdubWVudHNccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVp1uUQZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGNvZGVcU2NhbGFfU3BlY2lhbGl6YXRpb25cMV9GUFBcd2VlazRcYXNzaWdubWVudHNccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVp1yjpt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVUM6XGNvZGVcU2NhbGFfU3BlY2lhbGl6YXRpb25cMV9GUFBcd2VlazRcYXNzaWdubWVudHNccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

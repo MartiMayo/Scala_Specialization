@@ -44,10 +44,26 @@ class HuffmanSuite extends FunSuite {
     assert(combine(leaflist) === List(Fork(Leaf('e',1),Leaf('t',2),List('e', 't'),3), Leaf('x',4)))
   }
 
+  test("Create Code Tree") {
+    val myCode: CodeTree = createCodeTree(List('e', 'x', 'x', 'x', 't', 't', 'x'))
+    assert(myCode === Fork(Fork(Leaf('e',1),Leaf('t',2),List('e', 't'),3), Leaf('x',4),List('e','t','x'), 3+4))
+  }
+
+  test("Encode") {
+    new TestTrees {
+      assert(encode(t1)("ab".toList) === List(0,1))
+    }
+  }
 
   test("decode and encode a very short text should be identity") {
     new TestTrees {
       assert(decode(t1, encode(t1)("ab".toList)) === "ab".toList)
+    }
+  }
+
+  test("Quick Encode a short text") {
+    new TestTrees {
+      assert(decode(t1, quickEncode(t1)("ab".toList)) === "ab".toList)
     }
   }
 
