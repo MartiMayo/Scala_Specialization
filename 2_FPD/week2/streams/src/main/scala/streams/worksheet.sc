@@ -20,3 +20,4 @@ vector(4)(7)
 
 val ls = List(1,2,3,6)
 
+ls filterNot(x => x%2 == 1)
