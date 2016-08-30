@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min of two inserts: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Insert and delete into empty heap: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Heap is sorted: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.Minimum of melding two heaps: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.melding holding: OK, passed 100 tests.[0m
